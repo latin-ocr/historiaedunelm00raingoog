@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./historiaedunelm00raingoog_0191.png"; bbox 0 0 3000 5117; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 584 1992 2050 2080">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 584 1992 2050 2080">
+     <span class='ocr_line' id='line_1_1' title="bbox 584 1992 2050 2080; baseline 0.001 -3"><span class='ocrx_word' id='word_1_1' title='bbox 584 1992 1217 2080; x_wconf 77' lang='lat' dir='ltr'>WILLIELMI</span> <span class='ocrx_word' id='word_1_2' title='bbox 1280 2000 1429 2079; x_wconf 91' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1491 1994 2050 2079; x_wconf 79' lang='lat' dir='ltr'><strong>CHAMBRE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 974 2424 1692 2501">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 974 2424 1692 2501">
+     <span class='ocr_line' id='line_1_2' title="bbox 974 2424 1692 2501; baseline -0.001 0"><span class='ocrx_word' id='word_1_4' title='bbox 974 2424 1353 2501; x_wconf 85' lang='lat' dir='ltr'>CONTIN</span> <span class='ocrx_word' id='word_1_5' title='bbox 1368 2433 1692 2501; x_wconf 76' lang='lat' dir='ltr'>UATIO</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 390 2847 2266 2935">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 390 2847 2266 2935">
+     <span class='ocr_line' id='line_1_3' title="bbox 390 2847 2266 2935; baseline 0.001 -4"><span class='ocrx_word' id='word_1_6' title='bbox 390 2852 1117 2933; x_wconf 80' lang='lat' dir='ltr'>HISTORIAE</span> <span class='ocrx_word' id='word_1_7' title='bbox 1208 2847 2266 2935; x_wconf 69' lang='lat' dir='ltr'><strong>DURELMENSIS.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
